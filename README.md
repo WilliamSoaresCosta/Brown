@@ -14,6 +14,8 @@ Welcome to my GitHub profile! I'm a DevOps engineer with expertise in various te
 
 - **Programming Languages:**
   - Python
+  - Visua Stduio
+  - Terraform
 
 - **Microsoft Technologies:**
   - Microsoft Intune
