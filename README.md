@@ -7,7 +7,8 @@ Welcome to my GitHub profile! I am a seasoned DevOps engineer with expertise in 
 ### Cloud Platforms
 - ![AWS Logo](images/aws.png) **Amazon Web Services (AWS):** I have extensive experience in designing, deploying, and managing infrastructure on AWS, including EC2, S3, Lambda, and more.
 
-- ![Azure Logo](images/azure.png) **Microsoft Azure:** Proficient in Azure services, I've worked on Azure Virtual Machines, Azure Functions, Azure DevOps, and Azure Resource Manager.
+- ![Azure Logo](im![download](https://github.com/WilliamSoaresCosta/Brown/assets/93687790/08e24336-fc35-4026-94ab-71bab9c08bf5)
+ages/azure.png) **Microsoft Azure:** Proficient in Azure services, I've worked on Azure Virtual Machines, Azure Functions, Azure DevOps, and Azure Resource Manager.
 
 ### Containerization
 - ![Docker Logo](images/docker.png) **Docker:** Skilled in Docker, I can create and manage containers, Docker Compose, and orchestrate containers in a variety of environments.
