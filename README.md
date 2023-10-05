@@ -1,36 +1,22 @@
-# DevOps Engineer Profile
+<h3 align="center">Um desenvolvedor front-end apaixonado da Índia</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-Welcome to my GitHub profile! I am a seasoned DevOps engineer with expertise in various cloud platforms, containerization technologies, automation, and more. Below, you'll find an overview of my skills and experience.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=williamsoarescosta&label=Profile%20views&color= 0e75b6&style=flat" alt="williamsoarescosta" /> </p>
 
-## Skills
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src ="https://github-profile-trophy.vercel.app/?username=williamsoarescosta" alt="williamsoarescosta" /></a> </p>
 
-### Cloud Platforms
-- ![AWS Logo](images/aws.png) **Amazon Web Services (AWS):** I have extensive experience in designing, deploying, and managing infrastructure on AWS, including EC2, S3, Lambda, and more.
+<p align="left"> <a href="https ://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- ![Azure Logo](im![download](https://github.com/WilliamSoaresCosta/Brown/assets/93687790/08e24336-fc35-4026-94ab-71bab9c08bf5)
-ages/azure.png) **Microsoft Azure:** Proficient in Azure services, I've worked on Azure Virtual Machines, Azure Functions, Azure DevOps, and Azure Resource Manager.
+<h3 align="left">Conecte-se comigo:</h3>
+<p align ="esquerda">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/williamsoarescosta/" target="blank"><img align="center" src="https:// raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/williamsoarescosta /" height="30" width="40" /></a>
+</p>
 
-### Containerization
-- ![Docker Logo](images/docker.png) **Docker:** Skilled in Docker, I can create and manage containers, Docker Compose, and orchestrate containers in a variety of environments.
+<h3 align="left">Idiomas e ferramentas:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons /devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft .com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" largura ="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width= "40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https:// raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href=" https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> < img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href=" https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg " alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height= "40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/ logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel ="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </ a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons /python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https:/ /raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https:/ /raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> < img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a > </p>svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> < img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a > </p>
 
-- ![Kubernetes Logo](images/kubernetes.png) **Kubernetes:** I have hands-on experience with Kubernetes, managing containerized applications, and implementing best practices for scalability and reliability.
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=williamsoarescosta&show_icons=true&locale=en&layout=compact" alt="williamsoarescosta" /> </p>
 
-### Automation and Configuration Management
-- ![Python Logo](images/python.png) **Python:** Proficient in Python scripting, I've developed automation scripts for various tasks, including infrastructure provisioning, log analysis, and more.
+<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=williamsoarescosta&show_icons=true&locale=en" alt="williamsoarescosta" /> </p>
 
-- ![Terraform Logo](images/terraform.png) **Terraform:** I use Terraform to define infrastructure as code (IaC) and provision resources on AWS, Azure, and other cloud platforms.
-
-### Microsoft Technologies
-- ![Intune Logo](images/intune.png) **Microsoft Intune:** I have expertise in setting up and managing mobile device management (MDM) policies using Microsoft Intune.
-
-- ![Windows Autopilot Logo](images/autopilot.png) **Windows Autopilot:** Skilled in configuring and deploying Windows Autopilot for modern device provisioning.
-
-- ![Office 365 Logo](images/office365.png) **Office 365:** Proficient in Office 365 administration, I've managed user accounts, email services, and collaboration tools.
-
-## Projects
-- Check out my GitHub repositories for various projects related to cloud automation, CI/CD pipelines, containerization, and more.
-
-## Contact Me
-- Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/your-profile/) for professional inquiries or collaborations.
-
-Thanks for visiting my GitHub profile! I'm passionate about DevOps and cloud technologies, and I'm always looking to learn and share knowledge with the community.
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=williamsoarescosta&" alt="williamsoarescosta" /></p>
